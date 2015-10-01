@@ -1,2 +1,2 @@
-# PetProjects
-Random code projects/snippets/etc. I've done over the years
+# OpenXML Spreadsheet Generator
+Based off of code generator using the Microsoft OpenXML SDK Tool, this project will generate an OpenXML document.

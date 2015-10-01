@@ -1,0 +1,14 @@
+e:\documents\visual studio 2013\Projects\JogmaWebAPI\ExcelGenerator\ExcelGenerator\bin\Debug\ExcelGenerator.exe.config
+e:\documents\visual studio 2013\Projects\JogmaWebAPI\ExcelGenerator\ExcelGenerator\bin\Debug\ExcelGenerator.exe
+e:\documents\visual studio 2013\Projects\JogmaWebAPI\ExcelGenerator\ExcelGenerator\bin\Debug\ExcelGenerator.pdb
+e:\documents\visual studio 2013\Projects\JogmaWebAPI\ExcelGenerator\ExcelGenerator\obj\Debug\ExcelGenerator.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\JogmaWebAPI\ExcelGenerator\ExcelGenerator\obj\Debug\ExcelGenerator.exe
+e:\documents\visual studio 2013\Projects\JogmaWebAPI\ExcelGenerator\ExcelGenerator\obj\Debug\ExcelGenerator.pdb
+C:\Projects\ExcelGenerator\ExcelGenerator\bin\Debug\ExcelGenerator.exe.config
+C:\Projects\ExcelGenerator\ExcelGenerator\obj\Debug\ExcelGenerator.exe
+C:\Projects\ExcelGenerator\ExcelGenerator\obj\Debug\ExcelGenerator.pdb
+C:\Projects\ExcelGenerator\ExcelGenerator\bin\Debug\ExcelGenerator.exe
+C:\Projects\ExcelGenerator\ExcelGenerator\bin\Debug\ExcelGenerator.pdb
+C:\Projects\ExcelGenerator\ExcelGenerator\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Projects\ExcelGenerator\ExcelGenerator\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Projects\ExcelGenerator\ExcelGenerator\obj\Debug\ExcelGenerator.csprojResolveAssemblyReference.cache
